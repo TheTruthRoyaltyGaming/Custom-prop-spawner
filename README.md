@@ -8,8 +8,7 @@ Restart your server.
 How to Use:
 Once your server is restarted, your props will be automatically synced. You can then spawn any prop by typing:
 
-bash
-Copy code
+
 /prop [propname]
 Example: /prop truth_twix_prop
 
